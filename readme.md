@@ -1,0 +1,2 @@
+# Answer
+- One solution could be to use an API to fetch the latest Bitcoin prices in real-time instead of relying on local database records. This would ensure that the prices are always up-to-date. Another option could be to implement a caching mechanism that updates the local database periodically with the latest prices from the API.
